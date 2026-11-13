@@ -6,4 +6,5 @@ namespace FitNotes.ViewModels;
 public class MainViewModel
 {
     public ObservableCollection<WorkoutItem> Workouts { get; set; } = new();
+    
 }
